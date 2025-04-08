@@ -1,5 +1,7 @@
-#include <stdio.h>
-int main(){
-      printf("Hello world");
-      return 0;
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Coding Is Fun !" << endl;
+    return 0;
 }
